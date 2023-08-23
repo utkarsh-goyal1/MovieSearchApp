@@ -1,0 +1,28 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    overflow-x:hidden;
+    background-color:rgba(255, 0, 0, 0.725);
+}
+#container{
+    width:80vw;
+    border:2px solid rgb(48, 62, 45);
+    margin:20px auto;
+    padding:16px;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    margin:10px;
+    color:rgba(21, 0, 255, 0.433);
+}
+input,button{
+    background-color: greenyellow;
+    font-size: 1.4rem;
+}
+form{
+    position:relative;
+    left:450px;
+}
